@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Everything You Need to Know About Minecraft
 
-You can use the [editor on GitHub](https://github.com/sarahjdurrani/minecraftguide/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here is a simple guide to how to play the game for anyone new! This site is will pretty much touch everything general about the game; for more in depth research please visit mojang.com.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Minecraft was created in May of 2009 by Mojang Studios. This game has resurfaced many times over the past years and is now being popularized by many gaming sites such as Twitch. Because of its traction to different audiences, it is important to understand what the game is about and how to play it.
 
 ### Markdown
 
